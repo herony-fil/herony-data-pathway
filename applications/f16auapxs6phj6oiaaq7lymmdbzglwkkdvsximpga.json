@@ -36,14 +36,25 @@
     "Weekly Allocation": "1GiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-04-16 06:26:43.307702265 UTC",
+    "Validated By": "herony-fil",
     "Active": true,
-    "Updated At": "2024-03-27 08:56:10.665309074 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-04-16 06:26:43.307705545 UTC",
+    "Active Request ID": "98be4f09-a169-474d-b48f-f5b11d4fbbd3",
     "On Chain Address": "f16auapxs6phj6oiaaq7lymmdbzglwkkdvsximpga",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": null
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "98be4f09-a169-474d-b48f-f5b11d4fbbd3",
+      "Request Type": "First",
+      "Created At": "2024-04-16 06:26:43.307707319 UTC",
+      "Updated At": "2024-04-16 06:26:43.307708048 UTC",
+      "Active": true,
+      "Allocation Amount": "32GiB",
+      "Signers": []
+    }
+  ]
 }
