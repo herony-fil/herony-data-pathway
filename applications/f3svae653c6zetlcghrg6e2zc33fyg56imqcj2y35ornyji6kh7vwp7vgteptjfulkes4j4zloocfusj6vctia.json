@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f3svae653c6zetlcghrg6e2zc33fyg56imqcj2y35ornyji6kh7vwp7vgteptjfulkes4j4zloocfusj6vctia",
+  "Issue Number": "10",
+  "Client": {
+    "Name": "Ai trainer",
+    "Region": "China",
+    "Industry": "IT & Technology Services",
+    "Website": "https://commoncrawl.org/",
+    "Social Media": "aitrain",
+    "Social Media Type": "Slack",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "AItrain is a company/organisation dedicated to using ai technology to change lives, and is also very much focused on the technological developments in the WEB3 world, using ai and web3 technologies to provide holistic solutions to our clients. We have a deep understanding of FILECOIN and specialise in utilising a variety of tools to meet the needs of our clients. Our team consists of technologists with extensive experience in the field. We recognise the importance of technology in modern business and are committed to providing innovative and efficient solutions to our clients. We are expert partners in the field of FILECOIN. We understand how FILECOIN works, its potential and application scenarios, and we have the expertise to optimise your FILECOIN experience using a wide range of tools and technologies. Our services cover a wide range of areas, including technical consulting, systems integration, software development and data analysis. Whether you are a start-up or an established business, we can provide customised solutions tailored to your specific requirements. In the future, we will use open data and train big models to provide more perfect and innovative services to our customers.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The Common Crawl corpus contains petabytes of data, regularly collected since 2008.The corpus contains raw web page data, metadata extracts, and text extracts.\r\nCommon Crawl data is stored on Amazon Web Services’ Public Data Sets and on multiple academic cloud platforms across the world.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "We have a technical team specialised in providing automotive data packaging services to our clients, which includes:1. Technical expertise:Our team is skilled in using advanced tools such as go-graphsplit, singularity, etc. to ensure effective and accurate data packaging.2. Data processing process:We use self-developed programs to take the data provided by our clients and Cut, pack, and compress the data provided by our clients into 28-32 GB zip files to meet the storage requirements of the Filecoin network. Through these services, we are able to effectively help our clients process and prepare data for storage and use on the Filecoin network.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.commoncrawl.org/blog/may-2024-crawl-archive-now-available",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02063327,f01858258,f02063867",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "512TiB",
+    "Replicas": 4,
+    "Weekly Allocation": "500TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-06-12 10:58:14.522352934 UTC",
+    "Validated By": "herony-fil",
+    "Active": true,
+    "Updated At": "2024-06-12 10:59:38.861002386 UTC",
+    "Active Request ID": "6a4b7ac8-aff5-4327-a53f-a70baa60a957",
+    "On Chain Address": "f3svae653c6zetlcghrg6e2zc33fyg56imqcj2y35ornyji6kh7vwp7vgteptjfulkes4j4zloocfusj6vctia",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "6a4b7ac8-aff5-4327-a53f-a70baa60a957",
+      "Request Type": "First",
+      "Created At": "2024-06-12 10:58:14.522360502 UTC",
+      "Updated At": "2024-06-12 10:58:14.522362164 UTC",
+      "Active": false,
+      "Allocation Amount": "500TiB",
+      "Signers": [
+        {
+          "Github Username": "herony-fil",
+          "Signing Address": "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei",
+          "Created At": "2024-06-12 10:59:36.226000000 UTC",
+          "Message CID": "bafy2bzacecwiiuh6chc36t46t6v63pcscz5ssgjvujwbyfoefvxfydhk2yjtw"
+        }
+      ]
+    }
+  ]
+}
