@@ -32,7 +32,7 @@
     "Total Requested Amount": "5PiB",
     "Single Size Dataset": "1PiB",
     "Replicas": 4,
-    "Weekly Allocation": "500TiB"
+    "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
     "State": "ReadyToSign",
@@ -43,7 +43,7 @@
     "Active Request ID": "47b28de3-31db-4d5d-b1d7-c50b2b0c0103",
     "On Chain Address": "f1yshvxmuyjhpeyeyd322d5bdzqjc2zrm4ij2vory",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
