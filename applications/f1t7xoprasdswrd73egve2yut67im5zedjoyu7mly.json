@@ -35,15 +35,25 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-04-01 07:26:52.414336196 UTC",
+    "Validated By": "herony-fil",
     "Active": true,
-    "Updated At": "2025-04-01 07:22:36.952655406 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-04-01 07:26:52.414340241 UTC",
+    "Active Request ID": "03ae9bdc-c1b0-4ba6-b55b-412d8dc12137",
     "On Chain Address": "f1t7xoprasdswrd73egve2yut67im5zedjoyu7mly",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "03ae9bdc-c1b0-4ba6-b55b-412d8dc12137",
+      "Request Type": "First",
+      "Created At": "2025-04-01 07:26:52.414342385 UTC",
+      "Updated At": "2025-04-01 07:26:52.414343800 UTC",
+      "Active": true,
+      "Allocation Amount": "1 PiB",
+      "Signers": []
+    }
+  ]
 }
