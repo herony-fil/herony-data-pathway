@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-04-02 03:27:23.580774987 UTC",
+    "State": "Granted",
+    "Validated At": "2025-04-08 02:37:42.355520561 UTC",
     "Validated By": "herony-fil",
     "Active": true,
-    "Updated At": "2025-04-02 03:27:23.580778785 UTC",
+    "Updated At": "2025-04-08 02:37:42.355517362 UTC",
     "Active Request ID": "1f80d5a2-61cb-4c90-b1d6-3dab374cd535",
     "On Chain Address": "f1t7xoprasdswrd73egve2yut67im5zedjoyu7mly",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2025-04-02 03:27:23.580780393 UTC",
       "Updated At": "2025-04-02 03:27:23.580781345 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "2.53 PiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "herony-fil",
+          "Signing Address": "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei",
+          "Created At": "2025-04-08 02:37:39.966000000 UTC",
+          "Message CID": "bafy2bzacecgzg3645eduixr7emm4nzra54vbuhcpagz7h7tnibjsp5n4hvcwy"
+        }
+      ]
     }
   ]
 }
