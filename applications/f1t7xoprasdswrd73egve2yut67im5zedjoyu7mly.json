@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1t7xoprasdswrd73egve2yut67im5zedjoyu7mly",
+  "Issue Number": "17",
+  "Client": {
+    "Name": "Xt",
+    "Region": "China",
+    "Industry": "Education & Training",
+    "Website": "commoncrawl.org",
+    "Social Media": "xt2025",
+    "Social Media Type": "Slack",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "XT AI is a company/organisation dedicated to continuously exploring the boundaries of technology using AI techniques, and is also very focused on the WEB3 world of technology, exploring new application possibilities using AI and web3 technologies.\nFILECOIN has been on our radar for a long time and we have a deep understanding of it. Our team consists of technicians with extensive experience in the field. We recognise the importance of technology in modern business and are committed to providing innovative and efficient solutions to our clients. We are expert partners in the field of FILECOIN. We understand how FILECOIN works, its potential and application scenarios, and we have the expertise to optimise your FILECOIN experience using a wide range of tools and technologies. In the future, we will use open data and train big models, and share the results of our know-how with the outside world in order to provide even better and more innovative services to our customers.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The Common Crawl corpus contains petabytes of data, regularly collected since 2008.The corpus contains raw web page data, metadata extracts, and text extracts.\nCommon Crawl data is stored on Amazon Web Services’ Public Data Sets and on multiple academic cloud platforms across the world.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://commoncrawl.org/blog/february-2025-crawl-archive-now-available",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02063327,f01858258,f02063867",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 4,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-04-08 02:37:42.355520561 UTC",
+    "Validated By": "herony-fil",
+    "Active": true,
+    "Updated At": "2025-04-08 02:37:42.355517362 UTC",
+    "Active Request ID": "1f80d5a2-61cb-4c90-b1d6-3dab374cd535",
+    "On Chain Address": "f1t7xoprasdswrd73egve2yut67im5zedjoyu7mly",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "1f80d5a2-61cb-4c90-b1d6-3dab374cd535",
+      "Request Type": "First",
+      "Created At": "2025-04-02 03:27:23.580780393 UTC",
+      "Updated At": "2025-04-02 03:27:23.580781345 UTC",
+      "Active": false,
+      "Allocation Amount": "2.53 PiB",
+      "Signers": [
+        {
+          "Github Username": "herony-fil",
+          "Signing Address": "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei",
+          "Created At": "2025-04-08 02:37:39.966000000 UTC",
+          "Message CID": "bafy2bzacecgzg3645eduixr7emm4nzra54vbuhcpagz7h7tnibjsp5n4hvcwy"
+        }
+      ]
+    }
+  ]
+}
